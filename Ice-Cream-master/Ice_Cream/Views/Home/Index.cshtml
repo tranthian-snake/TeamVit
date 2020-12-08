@@ -1,0 +1,27 @@
+﻿@model IQueryable<Product>
+
+@foreach (var p in Model)
+{
+<div class="col-12">
+    <div class="col-4" style="float:left;">
+        <div style="height:30px"><h4>@p.Name</h4></div>
+        <img src=@p.Image height="250" width="300" />
+        <br />
+        <b>Description:</b>
+        <div style="width:300px;height:50px; overflow:auto">@p.Description</div>
+        <br />
+        <div style="height:100px">
+            <b>Ingredient:</b>
+            <span>@p.Recipe</span>
+            <br />
+            <b>Price:</b>
+            <span>@p.Price</span>
+            <br />
+            <b>Category:</b>
+            <span>@p.Category</span>
+        </div>
+        <br />
+        <button class="btn btn-info">Add Bill</button>
+    </div>
+</div>
+}
