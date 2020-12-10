@@ -60,8 +60,16 @@ namespace Ice_Cream
             app.UseEndpoints(endpoints =>
             {
                 //endpoints.MapControllerRoute(
-                //    //name: "default",
-                //    //pattern: "{controller=Home}/{action=Index}/{id?}");
+                //name: "default",
+                //pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                //endpoints.MapControllerRoute(
+                //name: "default",
+                //pattern: "{controller=Home}/{action=About}/{id?}");
+
+                //endpoints.MapControllerRoute(
+                //name: "default",
+                //pattern: "{controller=Home}/{action=Contact}/{id?}");
 
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapRazorPages();

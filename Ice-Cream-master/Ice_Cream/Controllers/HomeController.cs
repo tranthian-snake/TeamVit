@@ -21,5 +21,20 @@ namespace Ice_Cream.Controllers
                     .OrderBy(p => p.ProductID)//sắp xếp theo
                     .Skip((productPage - 1) * PageSize)
                     .Take(PageSize));
+        //public ViewResult About
+        //{
+        //    get
+        //    {
+        //        return View();
+        //    }
+        //}
+
+        //public ViewResult Contact
+        //{
+        //    get
+        //    {
+        //        return View();
+        //    }
+        //}
     }
 }
