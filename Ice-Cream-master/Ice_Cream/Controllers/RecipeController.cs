@@ -12,5 +12,9 @@ namespace Ice_Cream.Controllers
         {
             return View();
         }
+        public ActionResult Recipẹ̣̣̣Details()
+        {
+            return View();
+        }
     }
 }
