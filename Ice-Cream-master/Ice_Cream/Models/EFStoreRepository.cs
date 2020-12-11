@@ -15,6 +15,7 @@ namespace Ice_Cream.Models
         }
         public IQueryable<Product> Products => context.Products;
         public IQueryable<Customer> Customers => context.Customers;
+        public IQueryable<Recipe> Recipes => context.Recipes;
 
     }
 }

@@ -9,5 +9,6 @@ namespace Ice_Cream.Models
     {
         IQueryable<Product> Products { get; }
         IQueryable<Customer> Customers { get; }
+        IQueryable<Recipe> Recipes { get; }
     }
 }
