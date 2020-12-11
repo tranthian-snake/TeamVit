@@ -35,7 +35,7 @@ namespace Practical.Models
                                     + "– Cho 1 ít nước cốt dừa vào hộp, xếp 1 lớp chuối, rắc lạc, dừa non lên.Tiếp tục đổ nước cốt dừa và làm cho đến khi hết nguyên liệu. Đảm bảo rằng mặt trên cùng của hộp là lạc và dừa non"
                                     +"Bước 3: Cho vào tủ lạnh:"+ "– Sau khi đã làm xong cho hộp kem vào tủ lạnh, để vào ngăn đá từ 3 - 5 tiếng là có thể thưởng thức."
                                     +"Thành phẩm – Thưởng thức:"+"– Sau khi kem đã đông cứng, nhúng hộp(hoặc khuôn nếu có) vào nước khoảng 2 - 3 phút để có thể lấy kem ra và cắt thành từng miếng để thưởng thức."
-                                    +"– Kem chuối thành phẩm yêu cầu có độ mềm dẻo, không cứng, vị chuối quyện với dừa thơm ngon, xen lẫn với vị bùi bùi của lạc rang."
+                                    +"– Kem chuối thành phẩm yêu cầu có độ mềm dẻo, không cứng, vị chuối quyện với dừa thơm ngon, xen lẫn với vị bùi bùi của lạc rang.",
                          Note= "Lưu ý: nên chọn chuối tây hay chuối ngự vừa chín tới để làm, không nên chọn chuối ta, dễ bị nhão, nát"
                      }
                     );

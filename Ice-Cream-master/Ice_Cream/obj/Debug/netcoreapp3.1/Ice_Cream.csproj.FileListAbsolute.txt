@@ -389,4 +389,4 @@ D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\bin\Debug\netcorea
 D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CoreCompileInputs.cache
 D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.MvcApplicationPartsAssemblyInfo.cache
 D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Recipe\Index.cshtml.g.cs
-D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Recipe\Recipẹ̣̣̣Details.cshtml.g.cs
+D:\Visual Studio 2019\EAP\IceCream\Ice-Cream-master\Ice_Cream\obj\Debug\netcoreapp3.1\Razor\Views\Recipe\RecipeDetails.cshtml.g.cs
