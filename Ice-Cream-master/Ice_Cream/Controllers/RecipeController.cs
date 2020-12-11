@@ -12,7 +12,7 @@ namespace Ice_Cream.Controllers
         {
             return View();
         }
-        public ActionResult Recipẹ̣̣̣Details()
+        public ActionResult RecipeDetails()
         {
             return View();
         }
