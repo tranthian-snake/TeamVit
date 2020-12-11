@@ -20,6 +20,17 @@ namespace Practical.Models
                 context.Database.Migrate();
             }
 
+            if (!context.Recipes.Any())
+            {
+                context.Recipes.AddRange(
+                     new Recipe
+                     {
+                     }
+                    );
+
+                context.SaveChanges();
+            };
+
             if (!context.Products.Any())
             {
                 context.Products.AddRange(
