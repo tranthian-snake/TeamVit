@@ -8569,11 +8569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio 2019\\EAP\\IceTeam\\TeamVit\\Ice-Cream\\Ice_Cream\\Ice_Cream.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2019\\EAP\\TeamIce\\TeamVit\\Ice-Cream\\Ice_Cream\\Ice_Cream.csproj",
       "projectName": "Ice_Cream",
-      "projectPath": "D:\\Visual Studio 2019\\EAP\\IceTeam\\TeamVit\\Ice-Cream\\Ice_Cream\\Ice_Cream.csproj",
+      "projectPath": "D:\\Visual Studio 2019\\EAP\\TeamIce\\TeamVit\\Ice-Cream\\Ice_Cream\\Ice_Cream.csproj",
       "packagesPath": "C:\\Users\\Tran Thi An\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio 2019\\EAP\\IceTeam\\TeamVit\\Ice-Cream\\Ice_Cream\\obj\\",
+      "outputPath": "D:\\Visual Studio 2019\\EAP\\TeamIce\\TeamVit\\Ice-Cream\\Ice_Cream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tran Thi An\\AppData\\Roaming\\NuGet\\NuGet.Config",
