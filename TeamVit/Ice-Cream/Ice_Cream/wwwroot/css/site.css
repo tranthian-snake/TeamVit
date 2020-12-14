@@ -1,0 +1,256 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff5f7;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+.logo {
+    float: left;
+    padding-top: 30px;
+}
+
+header {
+    background-color: #ffb8c9;
+    height: 658px;
+    width: 100%;
+    position: relative;
+}
+
+.top-bar-left {
+    width: 100%;
+    height: 120px
+}
+
+.logo a {
+    text-decoration: none;
+}
+
+    .logo a span {
+        color: #d41442;
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 400;
+        letter-spacing: 0px;
+        font-family: "Titan One", Arial, Tahoma, sans-serif;
+    }
+
+.menu-wrapper {
+    float: left;
+    height: 120px;
+}
+
+.menu-ul {
+    padding: 30px 50px;
+}
+
+    .menu-ul li {
+        list-style: none;
+        float: left;
+        margin-left: 30px;
+        color: white;
+    }
+
+        .menu-ul li a {
+            text-decoration: none;
+        }
+
+            .menu-ul li a span {
+                color: white;
+                font-family: "DM Sans", Arial, Tahoma, sans-serif;
+                font-size: 16px;
+                position: relative;
+                z-index: 2;
+            }
+
+                .menu-ul li a span:hover {
+                    color: #d41442;
+                    transition: 2s
+                }
+
+/*posision in slider near header of the page home */
+.header-slider-text {
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 400;
+    font-family: "Titan One", Arial, Tahoma, sans-serif;
+    letter-spacing: 0px;
+}
+
+.header-slider-glass-milk {
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    display: inline-flex
+}
+
+    .header-slider-glass-milk img {
+        margin-top: 110px;
+    }
+
+    .header-slider-glass-milk div {
+        padding-top: 80px;
+        color: white;
+        font-size: 13px;
+    }
+
+.header-slider-circle {
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    z-index: 1;
+}
+
+.header-slider-cream {
+    position: absolute;
+    bottom: 0px;
+    right: 400px;
+    z-index: 1;
+}
+
+.header-silder-moderm {
+    position: absolute;
+    bottom: 0px;
+    right: 60px;
+    z-index: 2;
+}
+
+.header-slider-circle-mini-one {
+    position: absolute;
+    top: 130px;
+    right: 60px;
+    z-index: 1;
+}
+
+.slider-16 {
+    position: absolute;
+    font-size: 46px;
+    color: rgb(212, 20, 66);
+    top: 150px;
+    right: 75px;
+    z-index: 2;
+    font-family: "Titan One", Arial, Tahoma, sans-serif;
+}
+
+.slider-cafes {
+    position: absolute;
+    font-family: "DM Sans";
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    top: 180px;
+    right: 80px;
+    z-index: 2;
+}
+
+.header-slider-circle-mini-two {
+    position: absolute;
+    top: 230px;
+    right: 60px;
+    z-index: 1;
+}
+
+.slider-23 {
+    position: absolute;
+    font-size: 46px;
+    color: rgb(212, 20, 66);
+    top: 250px;
+    right: 75px;
+    z-index: 2;
+    font-family: "Titan One", Arial, Tahoma, sans-serif;
+}
+
+.slider-trucks {
+    position: absolute;
+    font-family: "DM Sans";
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    top: 280px;
+    right: 80px;
+    z-index: 2;
+}
+/*----------*/
+.title-content-1 {
+    padding: 50px 0;
+}
+
+    .title-content-1 h2 {
+        font-size: 60px;
+        line-height: 60px;
+        font-weight: 400;
+        letter-spacing: 0px;
+        color: #d41442;
+    }
+
+    .title-content-1 h3 {
+        color: #ffa5ba;
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 400;
+        letter-spacing: 0px;
+    }
+
+.contentTop {
+    text-align: center;
+    background: #fff5f7;
+    height: auto;
+}
+
+    .contentTop h3 {
+        font-family: "Titan One", Arial, Tahoma, sans-serif;
+    }
+
+    .contentTop h2 {
+        font-family: "Titan One", Arial, Tahoma, sans-serif;
+    }
+
+.content-1 {
+    margin: 50px 0;
+}
+
+.img-cow {
+    float: left;
+}
+
+.text-cow {
+    float: left;
+    text-align: left;
+    padding: 50px;
+}
+
+.content2 {
+    margin-top: 50px;
+    display: inline-flex;
+    float: left
+}
+
+.contentChild {
+    float: left;
+}
+
+.contenShowUp {
+    margin-top: 50px;
+}
+
+section {
+    float: left;
+}
+
+.contentChild h2 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-family: "Titan One", Arial, Tahoma, sans-serif;
+    color: #d41442;
+    margin: 50px 0;
+}
